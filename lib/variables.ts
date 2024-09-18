@@ -39,6 +39,7 @@ export const availableThemes = [
   'cobalt',
   'purple_dark',
   'custom',
+  'fro',
 ] as const;
 
 export type AvailableTheme = (typeof availableThemes)[number];
