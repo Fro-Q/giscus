@@ -77,8 +77,8 @@
   "theme=noborder_dark": "NoBorder Dark",
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
-  "theme=custom": "سفارشی (به صورت تجربی)",
   "theme=fro": "Fro",
+  "theme=custom": "سفارشی (به صورت تجربی)",
 
   "enableGiscus": "فعال سازی giscus",
   "addTheFollowingScriptTag": "این <code><script></code> را به پوستهپلیت سایتی که میخواهید نظرات در آن نمایش داده شوداضافه کنید. ولی اگر المانی با کلاس <code>giscus</code> وجود داشته باشد, نظرات در آن نمایش داده خواهد شد.",

@@ -77,8 +77,8 @@
   "theme=noborder_dark": "NoBorder Dark",
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
-  "theme=custom": "Custom (experimental)",
   "theme=fro": "Fro",
+  "theme=custom": "Custom (experimental)",
 
   "enableGiscus": "Habilitar giscus",
   "addTheFollowingScriptTag": "Añade la siguiente etiqueta <code><script></code> a la plantilla de tu sitio web donde quieras que aparezcan los comentarios. Si existe un elemento con la clase <code>giscus</code>, los comentarios se mostrarán allí.",

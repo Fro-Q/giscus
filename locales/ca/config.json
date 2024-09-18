@@ -78,8 +78,8 @@
   "theme=noborder_dark": "NoBorder Dark",
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
-  "theme=custom": "Custom (experimental)",
   "theme=fro": "Fro",
+  "theme=custom": "Custom (experimental)",
 
   "enableGiscus": "Habilitar giscus",
   "addTheFollowingScriptTag": "Afegeix l'etiqueta següent <code><script></code> a la plantilla del teu lloc web on desitgis que apareguin els comentaris. Si hi ha un element amb la classe <code>giscus</code>, els comentaris es mostraran allà.",

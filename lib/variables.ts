@@ -38,8 +38,8 @@ export const availableThemes = [
   'noborder_gray',
   'cobalt',
   'purple_dark',
-  'custom',
   'fro',
+  'custom',
 ] as const;
 
 export type AvailableTheme = (typeof availableThemes)[number];

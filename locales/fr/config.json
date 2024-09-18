@@ -77,8 +77,8 @@
   "theme=noborder_dark": "NoBorder Dark",
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
-  "theme=custom": "Personnalisé (expérimental)",
   "theme=fro": "Fro",
+  "theme=custom": "Personnalisé (expérimental)",
 
   "enableGiscus": "Activer giscus",
   "addTheFollowingScriptTag": "Ajouter le code suivant (tag HTML <code><script></code>) dans le gabarit de vos pages web à l'endroit où vous souhaitez afficher les commentaires. Si un élément HTML possède la classe CSS <code>giscus</code> existe, les commentaires seront à cet endroit.",
