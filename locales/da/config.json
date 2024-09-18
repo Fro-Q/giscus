@@ -78,6 +78,7 @@
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
   "theme=custom": "Custom (experimental)",
+  "theme=fro": "Fro",
 
   "enableGiscus": "Aktivér Giscus",
   "addTheFollowingScriptTag": "Tilføj følgende <code><script></code>-tag til dit websteds skabelon, hvor du ønsker, at kommentarerne skal vises. Hvis et element med klassen <code>giscus</code> findes, vil kommentarerne blive placeret der i stedet.",
