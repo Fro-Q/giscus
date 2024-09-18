@@ -78,6 +78,7 @@
   "theme=noborder_gray": "SenLimo Griza",
   "theme=purple_dark": "Purple Dark",
   "theme=custom": "Propra (eksperimenta)",
+  "theme=fro": "Fro",
 
   "enableGiscus": "Ebligi giscus",
   "addTheFollowingScriptTag": "Aldonu la sekvantan <code><script></code> etikedon al la ŝablono de via retejo kie vi volas montri la komentojn. Se elemento kun la klaso <code>giscus</code> ekzistas, la komentoj estos metitaj tien anstataŭe.",
