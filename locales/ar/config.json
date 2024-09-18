@@ -78,6 +78,7 @@
   "theme=noborder_gray": "NoBorder Gray",
   "theme=purple_dark": "Purple Dark",
   "theme=custom": "مخصص (تجريبي)",
+  "theme=fro": "Fro",
 
   "enableGiscus": "تفعيل غيسكوس",
   "addTheFollowingScriptTag": "أضف <code><script></code> الوسم التالي إلى قالب موقعك في المكان الذي تريد أن تظهر فيه التعليقات. إذا كان هناك عنصر ذو صنف <code>giscus</code> ستظهر التعليقات بداخله.",
